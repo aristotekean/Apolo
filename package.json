@@ -1,0 +1,27 @@
+{
+  "name": "Apolo",
+  "version": "1.0.0",
+  "description": "Arduino connection with firestone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "reset": "firmata-party uno --debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinMalo/Apolo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinMalo/Apolo/issues"
+  },
+  "homepage": "https://github.com/KevinMalo/Apolo#readme",
+  "dependencies": {
+    "firebase-admin": "^8.10.0",
+    "firmata-party": "^2.0.0",
+    "johnny-five": "^1.4.0",
+    "moment": "^2.24.0"
+  }
+}
