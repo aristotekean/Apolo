@@ -2,7 +2,7 @@
   "name": "Apolo",
   "version": "1.0.0",
   "description": "Arduino connection with firestone",
-  "main": "index.js",
+  "main": "Arduino/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "reset": "firmata-party uno --debug"

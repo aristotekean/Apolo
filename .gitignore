@@ -1,1 +1,2 @@
-ServiceAccountKey.json
+DialogFlow/ServiceAccountKey.json
+*node_modules/*
